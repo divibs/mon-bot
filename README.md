@@ -1,6 +1,6 @@
 # PLEASE USE DUMMY WALLETS!
 I AM NOT RESPONSIBLE TO ANY LOSS OF FUNDS!
-# You need to install latedt Nodejs ask chatgpt
+# You need to install latest Nodejs ask chatgpt
 # Only works for Ubuntu/Linux
 ## You need to have this tokens first (any amount)
 - CHOG / DAK / YAKI you can buy on https://testnet.monad.xyz/
