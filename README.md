@@ -18,7 +18,7 @@ cd mon-bot
 ```sh
 npm install
 ```
-If didn;t work try
+If didn't work try
 ```sh
 sudo apt install npm
 ```
