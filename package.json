@@ -1,0 +1,9 @@
+{
+  "name": "monadbot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "ambient.js",
+  "scripts": {
+    "start": "node ambient.js"
+  }
+}
