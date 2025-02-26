@@ -1,6 +1,8 @@
 # PLEASE USE DUMMY WALLETS!
 I AM NOT RESPONSIBLE TO ANY LOSS OF FUNDS!
-# You need to have this tokens first (any amount)
+# You need to install latset Nodejs ask chatgpt
+# Only woeks for Ubuntu/Linux
+## You need to have this tokens first (any amount)
 - CHOG / DAK / YAKI you can buy on https://testnet.monad.xyz/
 - USDT/USDC you can buy on AMBIENT https://monad.ambient.finance/
 
