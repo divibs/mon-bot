@@ -2,10 +2,7 @@ Installation
 Clone the Repository
 Open your terminal and run:
 
-bash
-Copy
-Edit
-git clone https://github.com/divibs/mon-bot.git
+```git clone https://github.com/divibs/mon-bot.git```
 Then navigate into the project folder:
 
 bash
