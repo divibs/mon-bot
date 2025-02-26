@@ -18,6 +18,10 @@ cd mon-bot
 ```sh
 npm install
 ```
+If didn;t work try
+```sh
+sudo apt install npm
+```
 ## Installing ethers
 ```sh
 npm install ethers@6
